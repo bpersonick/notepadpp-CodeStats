@@ -5,8 +5,8 @@
   "bat": "CMD Script",
   "cmd": "CMD Script",
   "ps1": "PowerShell",
-  "vbs": "VB Script"
-  "wsh": "C Script"
+  "vbs": "VB Script",
+  "wsh": "C Script",
   "sh": "Shell Script",
   "bsh": "Shell Script",
   "ksh": "Shell Script",
