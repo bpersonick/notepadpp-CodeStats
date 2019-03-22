@@ -1,6 +1,12 @@
 ﻿{
   "plaintext": "Plain text",
   "txt": "Plain text",
+  "ascii": "ASCII Grafix",
+  "regexp": "Regular Expression",
+  "regex": "Regular Expression",
+  "rexp": "Regular Expression",
+  "rxp": "Regular Expression",
+  "rgx": "Regular Expression",
   "log": "Log",
   "bat": "CMD Script",
   "cmd": "CMD Script",
